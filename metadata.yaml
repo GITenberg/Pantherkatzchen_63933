@@ -1,5 +1,8 @@
 _repo: Pantherkatzchen_63933
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63933-h/images/cover.jpg
 creator:
   author:
     agent_name: Marie Madeleine
@@ -17,6 +20,8 @@ creator:
     - https://de.wikipedia.org/wiki/Marie_Madeleine
     - https://en.wikipedia.org/wiki/Gertrud_von_Puttkamer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63933#Pantherkatzchen
 gutenberg_issued: '2020-12-01'
 gutenberg_type: Text
 identifiers:
