@@ -1,0 +1,34 @@
+_repo: Pantherkatzchen_63933
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marie Madeleine
+    aliases:
+    - Madeleine, Marie
+    - Puttkamer, Marie Madeleine Günther, Freifrau von
+    - Puttkamer, Marie Madeleine Gunther, Freifrau von
+    - Puttkamer, Marie Madeleine von, Baroness
+    - Gunther, Gertrude
+    birthdate: 1881
+    deathdate: 1944
+    gutenberg_agent_id: '52674'
+    url: http://www.gutenberg.org/2009/agents/52674
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Marie_Madeleine
+    - https://en.wikipedia.org/wiki/Gertrud_von_Puttkamer
+description: ''
+gutenberg_issued: '2020-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63933'
+  lccn: '13004091'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: Pantherkätzchen
+url: http://www.gutenberg.org/ebooks/63933
